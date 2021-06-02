@@ -64,6 +64,9 @@ const NavBar: React.FC = () => (
       <Link to="/recruitment" title="Join Us" text="Join Us">
         <Contact />
       </Link>
+      <Link to="/blog" title="Blog" text="Blog">
+        <Contact />
+      </Link>
     </ListContainer>
   </NavbarContainer>
 );
